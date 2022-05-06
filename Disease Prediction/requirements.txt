@@ -1,0 +1,9 @@
+# Requirments:
+Python 3.8 upwards
+Pandas
+Numpy
+Scipy
+Sklearn
+1. Create a virtual environment (venv), install the above required packages using pip/pip3 (except python).
+2. You can install Anaconda directly which comes with all these packages by default.
+3. More so, you can run this on google colab without installing anything on your pc: https://colab.research.google.com/
